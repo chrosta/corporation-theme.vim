@@ -1,2 +1,2 @@
 # corporation-theme.vim
-Corporation theme for VIM.
+My theme for VIM.
